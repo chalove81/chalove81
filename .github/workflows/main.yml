@@ -1,0 +1,10 @@
+Search Results for: INVALID INPUT
+Please check your input and try again.
+
+Code points must be in the range U+0000 to U+10FFFF.
+
+Enter with plain 4- to 6-digit hex codes: 00A0, 100A0, 1000A0.
+
+You may also enter with a U+ prefix, or in Java or C styles: U+00A0, \u00A0, 0x00A0.
+
+ 
